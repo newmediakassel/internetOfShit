@@ -14,3 +14,10 @@ A series of weekly workshops that use the tools and techniques of the _Internet 
 ### Keywords
 
 Physical computing, DIY electronics, data interventions, public vs. private, open vs. closed systems, hacking, network scanning, mapping, cooperate surveillance, open source, goverment surveillance
+
+
+## Sessions
+
+Each Session lives in it's own branch.
+
+- [Session 1: Node.js meets Arduino](../../tree/session-01)
