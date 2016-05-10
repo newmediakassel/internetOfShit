@@ -16,5 +16,5 @@ git checkout session-02
 npm install
 
 # run it!
-node index
+node adafruit-sin-motor
 ```
