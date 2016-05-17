@@ -22,3 +22,4 @@ Each Session lives in it's own branch.
 
 - [Session 1: Node.js meets Arduino](../../tree/session-01)
 - [Session 2: Experiments with Motors](../../tree/session-02)
+- [Session 3: Data Processing in the Wild](../../tree/session-03)
