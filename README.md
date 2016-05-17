@@ -17,14 +17,14 @@ Download the [Arduino-Software](http://arduino.cc/) and upload the __Examples__ 
 
 ```bash
 # clone the repo
-# NOTE: If you already cloned the repo run 'git pull' inside the repo folder instead to fetch the latest sessions and updates. 
+# NOTE: If you already cloned the repo run 'git pull' inside the repo folder instead to fetch the latest sessions and updates.
 git clone https://github.com/newmediakassel/internetOfShit.git internetOfShit-repo
 
 # jump into the repository folder
 cd internetOfShit-repo
 
 # switch to the session-02 branch
-git checkout session-02
+git checkout session-03
 ```
 
 ### Run the Code
@@ -34,5 +34,5 @@ git checkout session-02
 npm install
 
 # run it!
-node adafruit-sin-motor
+node wind-turbine
 ```
